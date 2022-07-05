@@ -22,5 +22,5 @@ Follow TechWave on:
 <li><a href="https://www.instagram.com/techwave.courses/">Instagram</a>
 
 Follow me on: 
-<li><a href="">https://www.linkedin.com/in/soumya-jindal-a41b8922a</a>
-<li><a href=""> saw.me.yeah_ </a>
+<li><a href="https://www.linkedin.com/in/soumya-jindal-a41b8922a">LinkedIn</a>
+<li><a href="https://www.instagram.com/saw.me.yeah_/">Instagram</a>
